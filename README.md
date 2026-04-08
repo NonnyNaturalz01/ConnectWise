@@ -13,12 +13,15 @@ Features </b> </h2>
 <br>
 Integrated with Africa's Talking APIs, allowing users to purchase airtime and send SMS messages by voice.
 <br>
+<br>
 <b>Voice Assistant Integration </b>
 Using Google's voice technologies to facilitate natural, conversational interactions.
+<br>
 <br>
 <b>Media Playback</b>
 <br>
 YouTube Data API v3 functionality has been added, allowing users to play videos or songs directly using voice commands.
+<br>
 <br>
 <b>Frustration Detection </b>
 <br>
