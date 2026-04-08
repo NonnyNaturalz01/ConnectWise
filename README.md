@@ -26,6 +26,33 @@ YouTube Data API v3 functionality has been added, allowing users to play videos 
 <b>Frustration Detection </b>
 <br>
 A unique function that detects user frustration and responds in a relaxing, helpful manner.
+<br>
+<br>
+<h2> <b> 🛠️ Tech Stack </b></h2>
+<br>
+<br>
+	• Python <br>
+	• Jupyter Notebook (prototype demonstration) <br>
+	• Africa Talking Username <br>
+	• Africa's Talking api key <br>
+	• Youtube Data API v3 key <br>
+  • Groq API key
+  
+<br>
+<br>
+
+<h2><b>📂 Repository Contents </b></h2>
+	• connectwise_notebook.ipynb : Shows all the features 
+	• README.md : Project summary and instructions
+  
+<br>
+<br>
+<h2><b>Note: </b></h2>
+This is a prototype notebook created for a hackathon. It demonstrates the concept and features but is not a complete production-ready app.
+
+
+
+
 
 
 
