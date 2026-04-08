@@ -7,7 +7,7 @@
 <br>
 
 <h2> <b>✨ 
-Features </b>b> </h2>
+Features </b> </h2>
 <br>
 <b> Airtime Purchase and SMS Sending </b>
 <br>
