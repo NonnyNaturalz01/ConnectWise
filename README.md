@@ -48,6 +48,7 @@ A unique function that detects user frustration and responds in a relaxing, help
 <br>
 <h2><b>Note: </b></h2>
 This is a prototype notebook created for a hackathon. It demonstrates the concept and features but is not a complete production-ready app.
+Needs more work
 
 
 
